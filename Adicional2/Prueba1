@@ -1,0 +1,17 @@
+{
+  "code": 1,
+  "text": "Componente principal",
+  "price": 100.0,
+  "misComponent": {
+    "101": {
+      "code": 101,
+      "text": "Pieza A",
+      "price": 10.0
+    },
+    "102": {
+      "code": 102,
+      "text": "Pieza B",
+      "price": 20.0
+    }
+  }
+}
